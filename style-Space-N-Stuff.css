@@ -76,6 +76,8 @@ img{
     border-bottom-style: double;
     border-right-style: double;
     border-width: 4px;
+    box-shadow: 0 0 5px #e6f5ff, 0 0 10px #e6f5ff, 0 0 20px #e6f5ff, 0 0 30px #e6f5ff, 0 0 40px #e6f5ff, 0 0 55px #e6f5ff, 0 0 75px #e6f5ff;
+
 }
 .fix_size{
     width: 220px;
