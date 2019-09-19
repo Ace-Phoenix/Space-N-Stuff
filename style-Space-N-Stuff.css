@@ -1,17 +1,39 @@
 head{
-    
+    border: outset
 }
 
 body{
     
 }
+div{
+
+}
 
 h1{
-    
+    font-size: 65px;
+    text-align: center;
+    border-bottom-style: double;
+    border-top-style:inset;
+    border-left-style:inset;
+    border-right-style: double;
+    border-radius: 20px;
+    border-color: black;
+margin-left: 550px;
+margin-right: 550px;
 }
 
 h2{
-    
+       font-size: 20px;
+    text-align: center;
+    border-bottom-style: double;
+    border-top-style:inset;
+    border-left-style:inset;
+    border-right-style: double;
+    border-radius: 10px;
+    border-color: black;
+    margin-top:-40px;
+margin-left: 575px;
+margin-right: 575px; 
 }
 
 h3{
@@ -35,9 +57,21 @@ a{
 }
 
 p{
-    
+text-align: center;
+font-family: cursive;  
 }
 
 img{
-    
+    margin-left: 550px;
+    margin-right: auto;
+    border-radius: 15px;
+    border-left-style: groove;
+    border-top-style: groove;
+    border-bottom-style: double;
+    border-right-style: double;
+    border-width: 4px;
+}
+.fix_size{
+    width: 220px;
+    hight: 220px;
 }
