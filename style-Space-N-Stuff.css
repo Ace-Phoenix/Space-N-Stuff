@@ -1,9 +1,9 @@
 head{
-    border: outset
 }
 
 body{
-    
+    border-style:solid;
+    border-radius: 10px;
 }
 div{
 
@@ -71,8 +71,8 @@ img{
     margin-left: 550px;
     margin-right: auto;
     border-radius: 15px;
-    border-left-style: groove;
-    border-top-style: groove;
+    border-left-style: solid;
+    border-top-style: solid;
     border-bottom-style: double;
     border-right-style: double;
     border-width: 4px;
@@ -88,4 +88,13 @@ img{
     margin-left: 350px;
     hight: 450px;
     width: 550px
+}
+.main_pg_img1{
+    margin-left: 100px;
+}
+.main_pg_img2{
+    hight: 210px;
+    width: 310px;
+    margin-top: -200px;
+    margin-left: 200
 }
