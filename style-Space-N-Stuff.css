@@ -37,7 +37,13 @@ margin-right: 575px;
 }
 
 h3{
-    
+    border-top-style: solid;
+    border-bottom-style: double;
+    border-right-style: double;
+    border-left-style: solid;
+    margin-left: 200px;
+    margin-right: 1045px;
+    border-radius: 7px
 }
 
 h4{
@@ -74,4 +80,12 @@ img{
 .fix_size{
     width: 220px;
     hight: 220px;
+}
+.stars_img1{
+    margin-left:275px;
+}
+.stars_img2{
+    margin-left: 350px;
+    hight: 450px;
+    width: 550px
 }
