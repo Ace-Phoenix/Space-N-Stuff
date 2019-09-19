@@ -1,5 +1,5 @@
 head{
-    
+    border: outset
 }
 
 body{
@@ -62,7 +62,7 @@ font-family: cursive;
 }
 
 img{
-    margin-left: 400px;
+    margin-left: 550px;
     margin-right: auto;
     border-radius: 15px;
     border-left-style: groove;
@@ -70,4 +70,8 @@ img{
     border-bottom-style: double;
     border-right-style: double;
     border-width: 4px;
+}
+.fix_size{
+    width: 220px;
+    hight: 220px;
 }
