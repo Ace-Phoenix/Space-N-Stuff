@@ -109,5 +109,23 @@ img{
 }
 .planet_Def{
     margin-top: -45px;
-    margin-right: 630px;
+    margin-left: 290px;
+}
+.planet_dia_one{
+    margin-top: 20px;
+    margin-left:700px;
+    height:200px;
+}
+.planet_dia_two{
+    margin-top: -1400px;
+    margin-left: 200px;
+    margin-right: 1000px;
+    height: 200px;
+}
+ul{
+    text-align: center;
+    font-family: cursive;
+}
+.pluto{
+    height: 150px
 }
