@@ -47,7 +47,13 @@ h3{
 }
 
 h4{
-
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+    border-radius: 10px;
+    border-color: white;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 
 h5{
@@ -57,9 +63,24 @@ h5{
 h6{
 
 }
-
+.home_btn{
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.end_btn{
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
 a{
-
+    border-top-color: lightgrey;
+    border-left-color: lightgrey;
+    border-right-color: white;
+    border-bottom-color: white;
+    border-bottom-style: double;
+    border-top-style:inset;
+    border-left-style:inset;
+    border-right-style: double;
+    color: white;
 }
 
 p{
@@ -109,6 +130,7 @@ img{
 }
 .aster{
         height: 270px;
+       margin-top: 20px;
 
 }
 .planet_Def{
