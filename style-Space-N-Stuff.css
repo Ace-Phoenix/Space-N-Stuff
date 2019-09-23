@@ -141,6 +141,7 @@ margin-left: 375px;
 }
 .asteroides{
     margin-top: 10px;
+    margin-right:500px;
  }
 .aster{
         height: 270px;
@@ -189,4 +190,7 @@ ul{
 }
 li{
     text-align: left;
+}
+.rockett{
+    margin-top:50px;
 }
