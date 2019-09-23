@@ -163,3 +163,13 @@ ul{
     margin-left: 100px;
     margin-top: -300px;
 }
+.gen_1 {
+  height: 500px;
+  margin-left: 20px;
+  margin-right: 200px;
+}
+.gen_2 {
+  height: 400px;
+  margin-right: 20px;
+  margin-left: 380px;
+}
