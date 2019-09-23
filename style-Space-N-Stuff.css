@@ -165,13 +165,12 @@ ul{
 }
 .gen_1 {
   height: 500px;
-  margin-left: 20px;
+  margin-left: 500px;
   margin-right: 200px;
 }
 .gen_2 {
-  height: 400px;
-  margin-right: 20px;
-  margin-left: 380px;
+  margin-right: 200px;
+  margin-left: 460px;
 }
 li{
     text-align: left;
