@@ -125,13 +125,26 @@ img{
     margin-left: 470px;
     margin-right: 470px;
 }
-.asteroides{
-    margin-right: 480px
+.aster3{
+            height: 270px;
+        margin-top:20px;
+margin-left: 375px;
 }
+.aster2{
+            height: 270px;
+        margin-top:20px;
+        margin-left:425px;
+    
+}
+.aster1{
+    margin-left: 360px;
+}
+.asteroides{
+    margin-top: 10px;
+ }
 .aster{
         height: 270px;
-       margin-top: 20px;
-
+        margin-top:20px;
 }
 .planet_Def{
     margin-top: -45px;
