@@ -172,3 +172,6 @@ ul{
   margin-right: 200px;
   margin-left: 460px;
 }
+li{
+    text-align: left;
+}
